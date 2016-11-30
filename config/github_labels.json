@@ -1,0 +1,42 @@
+[
+  {
+    "name": "bug",
+    "color": "fc2929"
+  },
+  {
+    "name": "duplikat",
+    "color": "cccccc"
+  },
+  {
+    "name": "forbedring",
+    "color": "84b6eb"
+  },
+  {
+    "name": "trenger hjelp",
+    "color": "159818"
+  },
+  {
+    "name": "vilikkefikse",
+    "color": "ffffff"
+  },
+  {
+    "name": "mulig bug?",
+    "color": "bfdadc"
+  },
+  {
+    "name": "utgår",
+    "color": "f7c6c7"
+  },
+  {
+    "name": "mulig idé",
+    "color": "d7e102"
+  },
+  {
+    "name": "ny funksjon",
+    "color": "e102d8"
+  },
+  {
+    "name": "når tid",
+    "color": "cfd8dc"
+  }
+]
